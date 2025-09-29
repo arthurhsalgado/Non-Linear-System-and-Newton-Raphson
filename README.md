@@ -21,5 +21,5 @@ Obtendo como resposta as concentrações de 1999.98 e Temperatura de 320.29.
 
 
 <p align="center">
-  <img src="https://github.com/arthurhsalgado/Motion-of-Sedimenting-Particle/blob/main/Imagem_ProblemaFisico.PNG?raw=true" width="400" height = "400">
+  <img src="[https://github.com/arthurhsalgado/Motion-of-Sedimenting-Particle/blob/main/Imagem_ProblemaFisico.PNG?raw=true" width="400" height](https://github.com/arthurhsalgado/Non-Linear-System-and-Newton-Raphson/blob/main/TanqueAgitado_1.png) = "400">
 </p>
