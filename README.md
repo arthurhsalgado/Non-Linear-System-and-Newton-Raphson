@@ -48,4 +48,13 @@ Para Ca = 2000 e T = 420, obteve-se o par (Ca, T) = (1891, 334)
   <img src="https://raw.githubusercontent.com/arthurhsalgado/Non-Linear-System-and-Newton-Raphson/f920e35712908663c8cc1b07d961bfc27602635d/TanqueAgitado_2.png" width="400">
 </p>
 
-3) 
+3) Varredura de Condições Iniciais
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arthurhsalgado/Non-Linear-System-and-Newton-Raphson/d8efae8a523eb3c6716920f3c974567d25a2d6cc/HeatMap_Ca.png" width="400">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arthurhsalgado/Non-Linear-System-and-Newton-Raphson/d8efae8a523eb3c6716920f3c974567d25a2d6cc/HeatMap_T.png" width="400">
+</p>
+
