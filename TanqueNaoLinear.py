@@ -52,8 +52,7 @@ for i, ca0 in enumerate(X_cal):
                 # checa determinante antes de resolver
                 if abs(np.linalg.det(J)) < 1e-12:
                     raise np.linalg.LinAlgError("Jacobiano singular")
-
-                # ---------- Resolução manual do sistema 2x2 ----------
+                    
                 a, b = J[0, 0], J[0, 1]
                 c, d = J[1, 0], J[1, 1]
                 rhs0, rhs1 = -F[0, 0], -F[1, 0]
@@ -65,7 +64,7 @@ for i, ca0 in enumerate(X_cal):
                 x0 = (rhs0 * d - b * rhs1) / det
                 x1 = (a * rhs1 - rhs0 * c) / det
                 del_X = np.array([[x0], [x1]])
-                # -----------------------------------------------------
+                
 
                 X = X + del_X
                 Ea = np.linalg.norm(del_X)
@@ -104,4 +103,5 @@ plt.xlabel('X inicial')
 plt.ylabel('Y inicial')
 plt.title('Valor de T para cada CI')
 plt.show()
+
 
