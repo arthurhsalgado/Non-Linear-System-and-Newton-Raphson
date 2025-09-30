@@ -45,4 +45,8 @@ Para Ca = 1200 e T = 350, obteve-se o par (Ca, T) = (1891, 334)
 Para Ca = 2000 e T = 420, obteve-se o par (Ca, T) = (1891, 334)
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arthurhsalgado/Non-Linear-System-and-Newton-Raphson/1ec39167f191a0f8a886c80eb319512db7da4748/TanqueAgitado_1.png" width="400">
+</p>
+
 3) 
